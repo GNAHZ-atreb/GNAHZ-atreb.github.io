@@ -19,7 +19,7 @@
 <h1>GNAHZ-atreb's Homepage</h1>
 </div>
 <table class="imgtable"><tr><td>
-<img src="ccf.jpg" alt="alt text" width="160px" height="160px" />&nbsp;</td>
+<img src="touxiang.jpg" alt="alt text" width="160px" height="160px" />&nbsp;</td>
 <td align="left"><p>Postdoc,<br /> <a href="https://www.ece.ucsb.edu/">Department of Electrical and Computer Engineering</a>, <br /><a href="https://www.ucsb.edu/">UC Santa Barbara (UCSB)</a><br />
 Phone: XX-XX-XX <br />
 E-mail: <i>XX</i> [@]UNI [DOT] edu<br />
